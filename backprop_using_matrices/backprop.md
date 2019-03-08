@@ -1,14 +1,9 @@
-### Name -Piyush Daga
 
-### Batch - 4
-
-[Assignment 2A](https://github.com/baronrogers5/eip_assignments/blob/master/python_101.ipynb)
-
-
-## Assignment 2B - Backprop Calculation
+## Backprop Calculations
 ---
 
 [python file wth computations](https://github.com/baronrogers5/eip_assignments/blob/master/python_computations.ipynb)
+
 ####  Step 0: Read Input and Output
 ``` python
 import numpy as np
