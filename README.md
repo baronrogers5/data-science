@@ -6,6 +6,7 @@ This GitHub repository will be used to host project files and data science resou
 
 [![alt text](images/lego-bricks.jpeg "Exploring 67 years of lego")](projects/Exploring_67_years_of_LEGO/lego.html)
 - [Exploring 67 years of LEGO](projects/Exploring_67_years_of_LEGO/lego.html)
+
 In this project we explore different datasets relating to the LEGO project, where basic exploration of colors, sizes and number of parts in a LEGO set through the years is carried out.  
 
 ## Pivot Tables from Ads Data
