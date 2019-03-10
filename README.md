@@ -2,7 +2,7 @@ This GitHub repository will be used to host project files and data science resou
 
 ## Projects
 
-![alt text](images/lego-bricks.jpeg "Exploring 67 years of lego")
+[![alt text](images/lego-bricks.jpeg "Exploring 67 years of lego")](projects/Exploring_67_years_of_LEGO/lego.ipynb)
 
 - Pivot Tables from Ads Data
 
