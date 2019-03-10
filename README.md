@@ -2,7 +2,8 @@ This GitHub repository will be used to host project files and data science resou
 
 ## Projects
 
-- Exploring 67 years of LEGO
+![alt text](images/lego-bricks.jpeg "Exploring 67 years of lego")
+
 - Pivot Tables from Ads Data
 
 ## Resources
