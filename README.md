@@ -1,7 +1,6 @@
 This GitHub repository will be used to host project files and data science resources.
 
 # Projects
---
 
 ## The LEGO Project 
 
@@ -14,7 +13,6 @@ This GitHub repository will be used to host project files and data science resou
 - [Pivot Tables from Ads Data](projects/Pivot_tables_from_Ads_data/ad-data-to-pivot-table.html)
 
 # Resources
---
 
 ## Backpropagation with equations  
 
