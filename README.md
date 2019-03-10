@@ -11,5 +11,5 @@ This GitHub repository will be used to host project files and data science resou
 
 - backprop calcuation using matrices in markdown
 
-[![alt text](images/backprop.jpg)](backprop_with_equations/Backprop_explained_with_mathjax.html)
+[![alt text](images/backprop.jpg "Backprop")](backprop_with_equations/Backprop_explained_with_mathjax.html)
 - [backprop calculation with equations](backprop_with_equations/Backprop_explained_with_mathjax.html) 
