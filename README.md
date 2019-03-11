@@ -16,6 +16,22 @@ In this project we explore different datasets relating to the LEGO project, wher
 
 Using googleads to download the auction insights data, using pandas to perform data-cleaning and formatting. Finally, they are exported into excel using openpyxl.
 
+## Bitcoin and evaluation of cryptocurrencies
+
+[![alt text](images/bitcoin.jpg)](projects/Exploring_the_Bitcoin_crypto_market/volatility_of_cryptocurrencies.html)
+- [Crypto Evaluation](projects/Exploring_the_Bitcoin_crypto_market/volatility_of_cryptocurrencies.html) 
+
+The year 2018 has truly been the year of the crypto, with the meteoric rise and fall of this unregulated commodity, many investors became millionarires over-night and many came on the streets <br>. 
+In this case-study we evaluate the fluctuations of bitcoin and other currencies over various periods of time.
+
+## The Handwashing Tale
+
+[![alt text](images/handwashing.jpg)](projects/Discovery_of_Handwashing/handwashing.html)
+- [Dr. Semmelweis and handwashing in 19th century](projects/Discovery_of_Handwashing/handwashing.html)]
+
+In this case-study we look at two hospitals in 19th century Venice, and why one hospital fared much better at child mortalityrates than its counterpart. We also see that after using Dr. Semmelweis's decision how thigs turned around.
+
+
 # Resources
 
 ## Backpropagation with equations  
